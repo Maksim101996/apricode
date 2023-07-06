@@ -1,0 +1,28 @@
+.note {
+	position: relative;
+	margin-left: 10px;
+}
+
+.noteTitle {
+	display: inline-flex;
+	border-radius: 40px;
+	padding: 15px;
+	border: 2px solid #fff;
+	min-width: 200px;
+	margin-bottom: 10px;
+}
+
+.noteName {
+	font-weight: 700;
+}
+.noteOpen {
+	color: green;
+}
+
+.noteCLosed {
+	color: red;
+}
+
+.noteChilds {
+	margin-left: 10px;
+}
