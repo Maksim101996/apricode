@@ -1,3 +1,5 @@
 .app {
-	font-size: 10px;
+	max-width: 1950px;
+	margin: 0 auto;
+	padding: 0 15px;
 }

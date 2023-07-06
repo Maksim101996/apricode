@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
-import Main from './components/main/main';
+import Task from './components/task/Task';
 
 function App() {
 	return (
-		<div className="app"><Main /></div>
+		<div className="app">
+			<Task />
+		</div>
 	)
 }
 
